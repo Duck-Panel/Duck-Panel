@@ -1,7 +1,13 @@
-### Hi there 👋
+![DbLogo](https://user-images.githubusercontent.com/93333533/139282491-07d83f24-4213-4d9e-83a1-6eb80d084aa2.png)
+
+## DuckPanel 
+
+### Best control panels!
+### Website: https://duckpanel.suomifin.net/
+### 💬 Discord: https://duckpanel.suomifin.net/discord
 
 <!--
-**Duck-Panel/Duck-Panel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DuckPanel/DuckPanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
